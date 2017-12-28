@@ -90,5 +90,32 @@
   <ItemGroup>
     <None Include="Resources\uno.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Red0.jpg" />
+    <Content Include="Resources\Red1.jpg" />
+    <Content Include="Resources\Red2.jpg" />
+    <Content Include="Resources\Red3.jpg" />
+    <Content Include="Resources\Red4.jpg" />
+    <Content Include="Resources\Red5.jpg" />
+    <Content Include="Resources\Red6.jpg" />
+    <Content Include="Resources\Red7.jpg" />
+    <Content Include="Resources\Red8.jpg" />
+    <Content Include="Resources\Red9.jpg" />
+    <Content Include="Resources\RedDraw2.jpg" />
+    <Content Include="Resources\RedReverse.jpg" />
+    <Content Include="Resources\uno deck.png" />
+    <Content Include="Resources\Yellow0.jpg" />
+    <Content Include="Resources\Yellow1.jpg" />
+    <Content Include="Resources\Yellow2.jpg" />
+    <Content Include="Resources\Yellow3.jpg" />
+    <Content Include="Resources\Yellow4.jpg" />
+    <Content Include="Resources\Yellow5.jpg" />
+    <Content Include="Resources\Yellow6.jpg" />
+    <Content Include="Resources\Yellow7.jpg" />
+    <Content Include="Resources\Yellow8.jpg" />
+    <Content Include="Resources\Yellow9.jpg" />
+    <Content Include="Resources\YellowDraw2.jpg" />
+    <Content Include="Resources\YellowReverse.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
