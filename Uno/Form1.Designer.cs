@@ -55,6 +55,7 @@
             this.btn2Players.TabIndex = 2;
             this.btn2Players.Text = "2 Players";
             this.btn2Players.UseVisualStyleBackColor = true;
+            this.btn2Players.Click += new System.EventHandler(this.btn2Players_Click);
             // 
             // btn4Players
             // 

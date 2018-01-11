@@ -17,6 +17,10 @@ namespace Uno
             InitializeComponent();
         }
 
-        
+        private void btn2Players_Click(object sender, EventArgs e)
+        {
+            Play play = new Play();
+            play.Visible = true;
+        }
     }
 }

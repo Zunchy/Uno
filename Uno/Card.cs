@@ -10,7 +10,6 @@ namespace Uno
     {
         private int number;
         private string color;
-        private string type;
 
         public Card(int num, string c)
         {
